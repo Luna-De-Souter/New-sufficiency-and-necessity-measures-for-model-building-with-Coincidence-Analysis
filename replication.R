@@ -1,9 +1,9 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# Evaluating sufficiency and necessity in model building with Coincidence     #
+# New sufficiency and necessity measures for model building with Coincidence  #
 # Analysis                                                                    #
 # ---------------------                                                       #
 # Replication material                                                        #
-# [anonymized]                                                                #
+# Luna De Souter and Michael Baumgartner                                      #
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
