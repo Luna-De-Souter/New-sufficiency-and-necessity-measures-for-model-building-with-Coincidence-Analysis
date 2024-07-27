@@ -1,9 +1,9 @@
 # This script contains instructions to install a preliminary version of the cna
-# package that can build cna models using weighted consistency, instead of 
-# consistency, and weighted c-coverage, rather than coverage, as model-building
-# measures. Furthermore, instructions on how to run a cna analysis with the 
-# new model building measures are included.
-# I thank Mathias Ambühl for implementing this preliminary version.
+# package that can build cna models using prevalence-adjusted consistency (PA-consistency), 
+# instead of consistency, and prevalence-adjusted contrapositive coverage (PAC-coverage), 
+# rather than coverage, as model-building measures. Furthermore, instructions on how to 
+# run a cna analysis with the new model building measures are included.
+# We thank Mathias Ambühl for implementing this preliminary version.
 # Please email me at luna.souter@uib.no if you have questions.
 
 
