@@ -1,6 +1,9 @@
 ### This script creates a plot that illustrates how PA-consistency converges 
 ### to 0.5 with increasing number of cases when antecedent and outcome are 
-### independent, regardless of the prevalence of the outcome.
+### independent, regardless of the prevalence of the outcome. The script also 
+### creates a plot that illustrates how AAC-consistency converges to 0.5 with 
+### increasing number of cases when antecedent and outcome are independent, 
+### regardless of the relative frequency of the antecedent.
 
 
 # set seed to ensure replicability
